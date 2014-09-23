@@ -1,10 +1,9 @@
-bootstrap-pull
+bootstrap-align
 ==============
 
-   Bootstrap pull for Twitter Bootstrap v3.
+   Twitter Bootstrap v3 için responsive hizalama.
    
-   To have pull-right and pull-left for Bootstrap v3 for xs, sm, md, lg media.
-   This will help having some complex behavior for contents.
+   Karmaşık yapılı tasarımlarda farklı cihazlar için hizalama.
    
       pull-left-xs
       pull-right-xs
@@ -14,6 +13,9 @@ bootstrap-pull
       pull-right-md
       pull-left-lg
       pull-right-lg
-      
-    
-   Rajab Natshah  rajab@natshah.com   rajab.natshah.com 
+      text-left
+      text-center
+      text-right
+      text-left
+      text-center
+      text-right
