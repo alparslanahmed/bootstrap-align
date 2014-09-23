@@ -13,9 +13,15 @@ bootstrap-align
       pull-right-md
       pull-left-lg
       pull-right-lg
-      text-left
-      text-center
-      text-right
-      text-left
-      text-center
-      text-right
+      text-left-xs
+      text-center-xs
+      text-right-xs
+      text-left-sm
+      text-center-sm
+      text-right-sm
+      text-left-md
+      text-center-md
+      text-right-md
+      text-left-lg
+      text-center-lg
+      text-right-lg
